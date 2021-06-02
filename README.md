@@ -46,7 +46,7 @@ List the ready features here:
 ![Example screenshot7](./Screenshots/7.1-Print-State_1.png)
 ![Example screenshot8](./Screenshots/7.2-Print-State_2.png)
 ![Example screenshot9](./Screenshots/8.1-Scan.png)
-![Example screenshot10(./Screenshots/9.1-My_documents-State_1.png)
+![Example screenshot10](./Screenshots/9.1-My_documents-State_1.png)
 ![Example screenshot11](./Screenshots/9.2-My_documents-State_2.png)
 ![Example screenshot12](./Screenshots/9.3-My_documents-State_3.png)
 ![Example screenshot13](./Screenshots/10.1-Find_the_nearest_shop.png)
