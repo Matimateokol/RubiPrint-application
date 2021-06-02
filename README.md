@@ -6,8 +6,6 @@ This is a project of an dedicated application which main purpose is to support R
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -56,22 +54,8 @@ List the ready features here:
 ![Example screenshot17](./Screenshots/13.1-Your_profile.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_
 
 
 ## Room for Improvement
@@ -90,11 +74,11 @@ To do:
 Give credit here.
 - This project was inspired by...
 - This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Many thanks to Proto.io team.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@Matimateokol](https://github.com/Matimateokol) - feel free to contact me!
 
 
 <!-- Optional -->
