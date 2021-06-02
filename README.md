@@ -37,23 +37,23 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./Screenshots/1.1-Screen 0.png)
-![Example screenshot](./Screenshots/2.1-Screen 1.png)
-![Example screenshot](./Screenshots/3.1-Screen 2-State 1.png)
-![Example screenshot](./Screenshots/4.1-Screen 3-State 1.png)
-![Example screenshot](./Screenshots/5.1-Screen 8.png)
-![Example screenshot](./Screenshots/6.1-Menu-State 1.png)
-![Example screenshot](./Screenshots/7.1-Print-State 1.png)
-![Example screenshot](./Screenshots/7.2-Print-State 2.png)
+![Example screenshot](./Screenshots/1.1-Screen_0.png)
+![Example screenshot](./Screenshots/2.1-Screen_1.png)
+![Example screenshot](./Screenshots/3.1-Screen_2-State_1.png)
+![Example screenshot](./Screenshots/4.1-Screen_3-State_1.png)
+![Example screenshot](./Screenshots/5.1-Screen_8.png)
+![Example screenshot](./Screenshots/6.1-Menu-State_1.png)
+![Example screenshot](./Screenshots/7.1-Print-State_1.png)
+![Example screenshot](./Screenshots/7.2-Print-State_2.png)
 ![Example screenshot](./Screenshots/8.1-Scan.png)
-![Example screenshot](./Screenshots/9.1-My documents-State 1.png)
-![Example screenshot](./Screenshots/9.2-My documents-State 2.png)
-![Example screenshot](./Screenshots/9.3-My documents-State 3.png)
-![Example screenshot](./Screenshots/10.1-Find the nearest shop.png)
-![Example screenshot](./Screenshots/11.1-E-Store-State 1.png)
-![Example screenshot](./Screenshots/11.2-E-Store-State 2.png)
+![Example screenshot](./Screenshots/9.1-My_documents-State_1.png)
+![Example screenshot](./Screenshots/9.2-My_documents-State_2.png)
+![Example screenshot](./Screenshots/9.3-My_documents-State_3.png)
+![Example screenshot](./Screenshots/10.1-Find_the_nearest_shop.png)
+![Example screenshot](./Screenshots/11.1-E-Store-State_1.png)
+![Example screenshot](./Screenshots/11.2-E-Store-State_2.png)
 ![Example screenshot](./Screenshots/12.1-Status_Menu.png)
-![Example screenshot](./Screenshots/13.1-Your profile.png)
+![Example screenshot](./Screenshots/13.1-Your_profile.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
